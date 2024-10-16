@@ -1,0 +1,44 @@
+CREATE DATABASE SchoolDB 
+GO
+USE SchoolDB 
+GO
+CREATE TABLE Speciality
+(
+  Id INT PRIMARY KEY,
+  Name NVARCHAR(16) NOT NULL,
+  Description NVARCHAR(1024),
+  GraduatesTitle NVARCHAR(32) NOT NULL UNIQUE,
+  StartGrade INT  CONSTRAINT StartGrade_range CHECK (StartGrade BETWEEN 1 AND 12) NOT NULL,
+  EndGrade INT CONSTRAINT EndGrade_range CHECK (EndGrade BETWEEN 1 AND 12) NOT NULL 
+ )
+ GO
+CREATE TABLE Classes
+ (
+   Id INT PRIMARY KEY,
+   Grade INT  CONSTRAINT Grade_range CHECK (Grade BETWEEN 1 AND 12) NOT NULL,
+   GradeLetter NVARCHAR(1) NOT NULL,
+   SpecialityId INT CONSTRAINT FK_Classes_Speciality
+   FOREIGN KEY REFERENCES   Speciality(Id) NOT NULL
+ )
+ GO 
+ CREATE TABLE Students
+ (
+
+   Id INT PRIMARY KEY,
+   FirstName NVARCHAR(16) NOT NULL,
+   SurName NVARCHAR(16) NOT NULL,
+   LastName NVARCHAR(16) NOT NULL,
+   GSM NVARCHAR(16) NOT NULL,
+   Email NVARCHAR(32)NOT NULL UNIQUE,
+   Adress NVARCHAR(64)NOT NULL,
+   Age INT CONSTRAINT Age_range CHECK (Age BETWEEN 8 AND 20) NOT NULL,
+   Gender BIT NOT NULL,
+   ClassID  INT CONSTRAINT FK_Students_Classes
+   FOREIGN KEY REFERENCES    Classes(Id) NOT NULL
+   	  
+ )
+
+
+ SELECT* FROM Speciality
+  SELECT* FROM Classes
+   SELECT* FROM Students
