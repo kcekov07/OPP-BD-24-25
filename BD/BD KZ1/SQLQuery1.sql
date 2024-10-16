@@ -37,8 +37,21 @@ CREATE TABLE Classes
    FOREIGN KEY REFERENCES    Classes(Id) NOT NULL
    	  
  )
+ GO
+ CREATE TABLE Teachers
+ (
+   Id INT PRIMARY KEY,
+   FirstName NVARCHAR(16) NOT NULL,
+   LastName NVARCHAR(16) NOT NULL,
+   Gender BIT NOT NULL,
+   Email NVARCHAR(32)NOT NULL UNIQUE,
+   Subjects NVARCHAR(64),
+   ManagedClassID INT CONSTRAINT FK_Teachers_Classes
+   FOREIGN KEY REFERENCES    Classes(Id) NOT NULL
+   )
 
 
  SELECT* FROM Speciality
   SELECT* FROM Classes
    SELECT* FROM Students
+   SELECT * FROM Teachers
