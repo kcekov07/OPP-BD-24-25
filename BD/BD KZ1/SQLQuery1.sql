@@ -70,7 +70,11 @@ INSERT INTO Teachers (Id, FirstName, LastName, Gender, Email, Subjects, ManagedC
 VALUES
 (1, 'Nikola', 'Hristov', 1, 'n.hristov@pgmett.com', 'OOP', 2),
 (2, 'Nedyalka', 'Yordanova', 0, 'n.yordanova@pgmett.com', 'Software Development', 1),
-(3, 'Tatyana', 'Boyarova', 0, 't.boyarova@pgmett.com', 'Electrical Engineering', NULL)
+(3, 'Tatyana', 'Boyarova', 0, 't.boyarova@pgmett.com', 'Electrical Engineering', NULL),
+(4, 'Detelina', 'Antonova',0 , 'dantonova@pgmett.com', 'English',4),
+(5, 'Anton', 'Bazelkov',1 , 'abazelkov@pgmett.com', 'PE',3)
+
+
 GO
 
 INSERT INTO Students (FirstName, SurName, LastName, GSM, Email, Address, Age, Gender, ClassID)
@@ -82,7 +86,7 @@ VALUES
 ('Nikolay', 'Danielov', 'Kolev', '089 562 3485', 'nkolev@pgmett.com', 'Mutnica, Bulgaria', 15, 1, 3),
 ('Stoyan', 'Slavov', 'Dimitrov', '088 569 4584', 'sdimitrov@pgmett.com', 'Shumen, Bulgaria', 17, 1, 4),
 ('Daniel', 'Slavov', 'Obretenov', '088 569 4584', 'dobretenov@pgmett.com', 'Madara, Bulgaria', 18, 1, 1),
-('Gergana', 'Krasenova', 'Ivanova', '088 569 4584', 'givanova@pgmett.com', 'Shumen, Bulgaria', 16, 1, 2),
+('Gergana', 'Krasenova', 'Ivanova', '088 569 4584', 'givanova@pgmett.com', 'Shumen, Bulgaria', 16, 0, 2),
 ('Kristiyan', 'Dimitrov', 'Dermejiev', '088 569 4584', 'kdermenjiev@pgmett.com', 'Shumen, Bulgaria', 14, 1, 3),
 ('Vladislav', 'Genadiev', 'Stratimirov', '088 569 4584', 'vstratimirov@pgmett.com', 'Kaspichan, Bulgaria', 16, 1, 2)
 
