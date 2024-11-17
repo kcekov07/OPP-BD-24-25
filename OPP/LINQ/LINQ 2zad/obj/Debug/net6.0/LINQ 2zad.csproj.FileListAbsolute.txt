@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQ\LINQ 2zad\bin\Debug\net6.0\LINQ 2zad.exe
+C:\Users\User\source\repos\LINQ\LINQ 2zad\bin\Debug\net6.0\LINQ 2zad.deps.json
+C:\Users\User\source\repos\LINQ\LINQ 2zad\bin\Debug\net6.0\LINQ 2zad.runtimeconfig.json
+C:\Users\User\source\repos\LINQ\LINQ 2zad\bin\Debug\net6.0\LINQ 2zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 2zad\bin\Debug\net6.0\LINQ 2zad.pdb
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\LINQ 2zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\LINQ 2zad.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\LINQ 2zad.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\LINQ 2zad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\LINQ 2zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\refint\LINQ 2zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\LINQ 2zad.pdb
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\LINQ 2zad.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ\LINQ 2zad\obj\Debug\net6.0\ref\LINQ 2zad.dll

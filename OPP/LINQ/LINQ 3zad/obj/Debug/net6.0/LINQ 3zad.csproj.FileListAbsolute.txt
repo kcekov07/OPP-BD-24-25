@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQ\LINQ 3zad\bin\Debug\net6.0\LINQ 3zad.exe
+C:\Users\User\source\repos\LINQ\LINQ 3zad\bin\Debug\net6.0\LINQ 3zad.deps.json
+C:\Users\User\source\repos\LINQ\LINQ 3zad\bin\Debug\net6.0\LINQ 3zad.runtimeconfig.json
+C:\Users\User\source\repos\LINQ\LINQ 3zad\bin\Debug\net6.0\LINQ 3zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 3zad\bin\Debug\net6.0\LINQ 3zad.pdb
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\LINQ 3zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\LINQ 3zad.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\LINQ 3zad.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\LINQ 3zad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\LINQ 3zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\refint\LINQ 3zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\LINQ 3zad.pdb
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\LINQ 3zad.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ\LINQ 3zad\obj\Debug\net6.0\ref\LINQ 3zad.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQ\LINQ 4zad\bin\Debug\net6.0\LINQ 4zad.exe
+C:\Users\User\source\repos\LINQ\LINQ 4zad\bin\Debug\net6.0\LINQ 4zad.deps.json
+C:\Users\User\source\repos\LINQ\LINQ 4zad\bin\Debug\net6.0\LINQ 4zad.runtimeconfig.json
+C:\Users\User\source\repos\LINQ\LINQ 4zad\bin\Debug\net6.0\LINQ 4zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 4zad\bin\Debug\net6.0\LINQ 4zad.pdb
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\LINQ 4zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\LINQ 4zad.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\LINQ 4zad.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\LINQ 4zad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\LINQ 4zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\refint\LINQ 4zad.dll
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\LINQ 4zad.pdb
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\LINQ 4zad.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ\LINQ 4zad\obj\Debug\net6.0\ref\LINQ 4zad.dll

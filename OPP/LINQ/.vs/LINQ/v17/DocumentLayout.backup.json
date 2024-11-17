@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E444B6-55E7-45D0-A97C-53B01B7BE847}|LINQ 4zad\\LINQ 4zad.csproj|c:\\users\\user\\source\\repos\\linq\\linq 4zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E444B6-55E7-45D0-A97C-53B01B7BE847}|LINQ 4zad\\LINQ 4zad.csproj|solutionrelative:linq 4zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ABB77A-C1BD-4B62-B96F-22C302BF2745}|LINQ 3zad\\LINQ 3zad.csproj|c:\\users\\user\\source\\repos\\linq\\linq 3zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ABB77A-C1BD-4B62-B96F-22C302BF2745}|LINQ 3zad\\LINQ 3zad.csproj|solutionrelative:linq 3zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18B22FB-4A94-4D0F-A247-E3382FF89F48}|LINQ 2zad\\LINQ 2zad.csproj|c:\\users\\user\\source\\repos\\linq\\linq 2zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18B22FB-4A94-4D0F-A247-E3382FF89F48}|LINQ 2zad\\LINQ 2zad.csproj|solutionrelative:linq 2zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EF9575-C14C-4F92-8B2B-A76A176EC492}|LINQ\\LINQ.csproj|c:\\users\\user\\source\\repos\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EF9575-C14C-4F92-8B2B-A76A176EC492}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LINQ\\LINQ 4zad\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ 4zad\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LINQ\\LINQ 4zad\\Program.cs",
+              "RelativeToolTip": "LINQ 4zad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:33:53.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LINQ\\LINQ 3zad\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ 3zad\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LINQ\\LINQ 3zad\\Program.cs",
+              "RelativeToolTip": "LINQ 3zad\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA/wBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:30:01.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LINQ\\LINQ 2zad\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ 2zad\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LINQ\\LINQ 2zad\\Program.cs",
+              "RelativeToolTip": "LINQ 2zad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:27:44.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LINQ\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:22:22.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\programirane\programirane-9a\Programirane\kz1\kz1\bin\Debug\kz1.exe.config
+C:\programirane\programirane-9a\Programirane\kz1\kz1\bin\Debug\kz1.exe
+C:\programirane\programirane-9a\Programirane\kz1\kz1\bin\Debug\kz1.pdb
+C:\programirane\programirane-9a\Programirane\kz1\kz1\obj\Debug\kz1.csproj.AssemblyReference.cache
+C:\programirane\programirane-9a\Programirane\kz1\kz1\obj\Debug\kz1.csproj.SuggestedBindingRedirects.cache
+C:\programirane\programirane-9a\Programirane\kz1\kz1\obj\Debug\kz1.csproj.CoreCompileInputs.cache
+C:\programirane\programirane-9a\Programirane\kz1\kz1\obj\Debug\kz1.exe
+C:\programirane\programirane-9a\Programirane\kz1\kz1\obj\Debug\kz1.pdb
