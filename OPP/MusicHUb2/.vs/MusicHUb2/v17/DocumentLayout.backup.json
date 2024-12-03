@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MusicHUb2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|c:\\users\\user\\source\\repos\\musichub2\\musichubstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|solutionrelative:musichubstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|c:\\users\\user\\source\\repos\\musichub2\\musichubstart\\musichub.data.models\u0027\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|solutionrelative:musichubstart\\musichub.data.models\u0027\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|c:\\users\\user\\source\\repos\\musichub2\\musichubstart\\musichub.data.models\u0027\\musichubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|solutionrelative:musichubstart\\musichub.data.models\u0027\\musichubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\Migrations\\20241203185258_Init01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicHubStart\\Migrations\\20241203185258_Init01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|c:\\users\\user\\source\\repos\\musichub2\\musichubstart\\musichub.data.models\u0027\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|solutionrelative:musichubstart\\musichub.data.models\u0027\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|c:\\users\\user\\source\\repos\\musichub2\\musichubstart\\musichub.data.models\u0027\\songperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|solutionrelative:musichubstart\\musichub.data.models\u0027\\songperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|c:\\users\\user\\source\\repos\\musichub2\\musichubstart\\musichub.data.models\u0027\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|solutionrelative:musichubstart\\musichub.data.models\u0027\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|c:\\users\\user\\source\\repos\\musichub2\\musichubstart\\musichub.data.models\u0027\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|solutionrelative:musichubstart\\musichub.data.models\u0027\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|c:\\users\\user\\source\\repos\\musichub2\\musichubstart\\musichub.data.models\u0027\\performer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}|MusicHubStart\\MusicHubStart.csproj|solutionrelative:musichubstart\\musichub.data.models\u0027\\performer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAALcAAAAAAAAAAAAIwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-03T18:58:30.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\Program.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\Program.cs",
+              "RelativeToolTip": "MusicHubStart\\Program.cs",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAWwI8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:45:08.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241203185258_Init01.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\Migrations\\20241203185258_Init01.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\Migrations\\20241203185258_Init01.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\Migrations\\20241203185258_Init01.cs",
+              "RelativeToolTip": "MusicHubStart\\Migrations\\20241203185258_Init01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:58.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Writer.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\MusicHub.Data.Models\u0027\\Writer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Writer.cs",
+              "RelativeToolTip": "MusicHubStart\\MusicHub.Data.Models\u0027\\Writer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:32.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SongPerformer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\SongPerformer.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\MusicHub.Data.Models\u0027\\SongPerformer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\SongPerformer.cs",
+              "RelativeToolTip": "MusicHubStart\\MusicHub.Data.Models\u0027\\SongPerformer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:30.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Producer.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\MusicHub.Data.Models\u0027\\Producer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Producer.cs",
+              "RelativeToolTip": "MusicHubStart\\MusicHub.Data.Models\u0027\\Producer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:17.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Song.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\MusicHub.Data.Models\u0027\\Song.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Song.cs",
+              "RelativeToolTip": "MusicHubStart\\MusicHub.Data.Models\u0027\\Song.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:51:03.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicHubDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\MusicHubDbContext.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\MusicHub.Data.Models\u0027\\MusicHubDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\MusicHubDbContext.cs",
+              "RelativeToolTip": "MusicHubStart\\MusicHub.Data.Models\u0027\\MusicHubDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:47:12.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Performer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Performer.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\MusicHub.Data.Models\u0027\\Performer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Performer.cs",
+              "RelativeToolTip": "MusicHubStart\\MusicHub.Data.Models\u0027\\Performer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:47:48.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Album.cs",
+              "RelativeDocumentMoniker": "MusicHubStart\\MusicHub.Data.Models\u0027\\Album.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MusicHUb2\\MusicHubStart\\MusicHub.Data.Models\u0027\\Album.cs",
+              "RelativeToolTip": "MusicHubStart\\MusicHub.Data.Models\u0027\\Album.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:46:02.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

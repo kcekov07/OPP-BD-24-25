@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicHubStart", "MusicHubStart\MusicHubStart.csproj", "{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095A7FF3-B7A3-495B-A3A5-CBB5D7267A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E162F5F0-C7FD-488E-8DDF-7805AC38FC52}
+	EndGlobalSection
+EndGlobal
