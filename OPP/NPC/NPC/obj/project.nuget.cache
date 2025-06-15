@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OkhsN7omxZ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\programirane 24-25\\OPP-BD-24-25\\OPP\\NPC\\NPC\\NPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

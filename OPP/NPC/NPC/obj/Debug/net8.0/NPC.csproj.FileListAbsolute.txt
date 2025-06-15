@@ -1,0 +1,15 @@
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\bin\Debug\net8.0\NPC.exe
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\bin\Debug\net8.0\NPC.deps.json
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\bin\Debug\net8.0\NPC.runtimeconfig.json
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\bin\Debug\net8.0\NPC.dll
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\bin\Debug\net8.0\NPC.pdb
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\NPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\NPC.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\NPC.AssemblyInfo.cs
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\NPC.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\NPC.sourcelink.json
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\NPC.dll
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\refint\NPC.dll
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\NPC.pdb
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\NPC.genruntimeconfig.cache
+C:\Users\User\Documents\programirane 24-25\OPP-BD-24-25\OPP\NPC\NPC\obj\Debug\net8.0\ref\NPC.dll
